@@ -1,0 +1,234 @@
+<configs>
+
+<set xpath="/blocks/block[@name='plantedMushroom1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedMushroom2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedYucca1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedYucca2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedCotton1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCotton2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedCoffee1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCoffee2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedGoldenrod1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedGoldenrod2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedAloe1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedAloe2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedBlueberry1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedBlueberry2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedPotato1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedPotato2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedChrysanthemum1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedChrysanthemum2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedCorn1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCorn2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedGraceCorn1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedGraceCorn2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedHop1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedHop2Fertilized</set>
+<set xpath="/blocks/block[@name='plantedPumpkin1']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedPumpkin2Fertilized</set>
+<set xpath="/blocks/block[@name='DFseedApple']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFappleYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedOrange']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DForangeYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedBanana']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFbananaYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedCoconut']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFcoconutYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedLime']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFlimeYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedWheat']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFWheatPlantYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedTomato']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFtomatoYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedCarrot']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFcarrotYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedCannabis']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFCannabisPlantYoungFertilized</set>
+<set xpath="/blocks/block[@name='DFseedRice']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFRicePlantYoungFertilized</set>
+<set xpath="/blocks/block[@name='plantedYucca1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedYucca2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedCotton1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCotton2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedCoffee1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCoffee2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedGoldenrod1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedGoldenrod2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedAloe1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedAloe2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedBlueberry1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedBlueberry2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedPotato1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedPotato2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedChrysanthemum1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedChrysanthemum2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedCorn1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedCorn2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedGraceCorn1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedGraceCorn2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedHop1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedHop2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='plantedPumpkin1Underground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">plantedPumpkin2UndergroundFertilized</set>
+<set xpath="/blocks/block[@name='DFseedWheatUnderground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFWheatPlantYoungUndergroundFertilized</set>
+<set xpath="/blocks/block[@name='DFseedTomatoUnderground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFtomatoYoungUndergroundFertilized</set>
+<set xpath="/blocks/block[@name='DFseedCarrotUnderground']/property[@class='UpgradeBlock']/property[@name='ToBlock']/@value">DFcarrotYoungUndergroundFertilized</set>
+
+<append xpath="/blocks">
+	<block name="plantedMushroom2Fertilized">
+		<property name="Extends" value="plantedMushroom2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedYucca2Fertilized">
+		<property name="Extends" value="plantedYucca2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCotton2Fertilized">
+		<property name="Extends" value="plantedCotton2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCoffee2Fertilized">
+		<property name="Extends" value="plantedCoffee2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedGoldenrod2Fertilized">
+		<property name="Extends" value="plantedGoldenrod2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedAloe2Fertilized">
+		<property name="Extends" value="plantedAloe2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedBlueberry2Fertilized">
+		<property name="Extends" value="plantedBlueberry2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedPotato2Fertilized">
+		<property name="Extends" value="plantedPotato2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedChrysanthemum2Fertilized">
+		<property name="Extends" value="plantedChrysanthemum2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCorn2Fertilized">
+		<property name="Extends" value="plantedCorn2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedGraceCorn2Fertilized">
+		<property name="Extends" value="plantedGraceCorn2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedHop2Fertilized">
+		<property name="Extends" value="plantedHop2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedPumpkin2Fertilized">
+		<property name="Extends" value="plantedPumpkin2"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFappleYoungFertilized">
+		<property name="Extends" value="DFappleYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DForangeYoungFertilized">
+		<property name="Extends" value="DForangeYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFbananaYoungFertilized">
+		<property name="Extends" value="DFbananaYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFcoconutYoungFertilized">
+		<property name="Extends" value="DFcoconutYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFlimeYoungFertilized">
+		<property name="Extends" value="DFlimeYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFWheatPlantYoungFertilized">
+		<property name="Extends" value="DFWheatPlantYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFtomatoYoungFertilized">
+		<property name="Extends" value="DFtomatoYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFcarrotYoungFertilized">
+		<property name="Extends" value="DFcarrotYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFCannabisPlantYoungFertilized">
+		<property name="Extends" value="DFCannabisPlantYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFRicePlantYoungFertilized">
+		<property name="Extends" value="DFRicePlantYoung"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedYucca2UndergroundFertilized">
+		<property name="Extends" value="plantedYucca2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCotton2UndergroundFertilized">
+		<property name="Extends" value="plantedCotton2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCoffee2UndergroundFertilized">
+		<property name="Extends" value="plantedCoffee2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedGoldenrod2UndergroundFertilized">
+		<property name="Extends" value="plantedGoldenrod2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedAloe2UndergroundFertilized">
+		<property name="Extends" value="plantedAloe2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedBlueberry2UndergroundFertilized">
+		<property name="Extends" value="plantedBlueberry2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedPotato2UndergroundFertilized">
+		<property name="Extends" value="plantedPotato2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedChrysanthemum2UndergroundFertilized">
+		<property name="Extends" value="plantedChrysanthemum2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedCorn2UndergroundFertilized">
+		<property name="Extends" value="plantedCorn2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedGraceCorn2UndergroundFertilized">
+		<property name="Extends" value="plantedGraceCorn2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedHop2UndergroundFertilized">
+		<property name="Extends" value="plantedHop2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="plantedPumpkin2UndergroundFertilized">
+		<property name="Extends" value="plantedPumpkin2Underground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFWheatPlantYoungUndergroundFertilized">
+		<property name="Extends" value="DFWheatPlantYoungUnderground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFtomatoYoungUndergroundFertilized">
+		<property name="Extends" value="DFtomatoYoungUnderground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+
+	<block name="DFcarrotYoungUndergroundFertilized">
+		<property name="Extends" value="DFcarrotYoungUnderground"/>
+		<property name="PlantGrowing.GrowthRate" value="2"/>
+	</block>
+</append>
+
+</configs>

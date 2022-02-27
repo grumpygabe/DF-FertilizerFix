@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="DF-FertilizerFix" />
+		<Description value="A test modlet for making DF fertilizer work as intended?" />
+		<Author value="grumpybeard" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
